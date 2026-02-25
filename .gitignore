@@ -1,3 +1,5 @@
 .venv
 *.sqlite
 __pycache__/
+.vscode
+requirements_backup.txt
